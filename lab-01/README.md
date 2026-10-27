@@ -5,8 +5,7 @@
 **Section:** CSE - CORE(223 & S15)
 **Course:** Backend Development Fundamentals  
 **Lab:** Lab 01 – Node.js and Express Server  
-**Deployment URL:** **Deployment Note:** Public deployment could not be completed. The application was tested locally.
-
+**Deployment URL:** **Deployment Note:** Not available — Public deployment has not been attempted yet. The application was tested locally using Postman, and screenshots of all four endpoints are included below.
 ---
 
 ## 1. Introduction
@@ -166,8 +165,8 @@ The home route returned a welcome message, the about route returned JSON data, t
 - The project runs locally on port 3000.
 - No environment variables are required for local execution.
 - The `node_modules` directory and `.env` files are excluded from GitHub.
-- Deployment is pending. Add the actual reason if public deployment cannot be completed.
-- If deployment is unavailable, include Postman screenshots of all endpoints as required by the lab instructions.
+- Public deployment has not been attempted yet. The application was tested locally.
+- Postman screenshots of all four endpoints (/, /about, /time, /unknown) are included in the Screenshots section.
 
 ## 12. Conclusion
 
