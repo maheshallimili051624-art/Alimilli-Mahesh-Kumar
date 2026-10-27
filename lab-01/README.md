@@ -126,6 +126,24 @@ The Express application runs at http://localhost:3000.
 
 ![404 Response](screenshots/not-found.png)
 
+### Postman API Testing Screenshots
+
+**GET / – Home (200 OK)**
+
+![Postman Home](screenshots/postman-home.png)
+
+**GET /about – About (200 OK)**
+
+![Postman About](screenshots/postman-about.png)
+
+**GET /time – Time (200 OK)**
+
+![Postman Time](screenshots/postman-time.png)
+
+**GET /unknown – Not Found (404)**
+
+![Postman 404](screenshots/postman-not-found.png)
+
 ## 9. Testing
 
 The application was tested locally by opening each endpoint in a web browser.
