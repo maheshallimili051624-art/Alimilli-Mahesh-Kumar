@@ -81,7 +81,7 @@ Note: The `node_modules` folder should be excluded from GitHub using `.gitignore
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/maheshallimili051624-art/Alimilli-Mahesh-Kumar---BDF
+git clone https://github.com/maheshallimili051624-art/Alimilli-Mahesh-Kumar
 ```
 
 ### Step 2: Navigate to Lab 03
