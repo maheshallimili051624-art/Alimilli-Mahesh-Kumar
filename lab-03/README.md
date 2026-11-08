@@ -8,6 +8,8 @@
 - **Course:** Backend Development Fundamentals
 - **Lab Number:** Lab 03
 - **Project:** Books REST API
+- ## Live Deployment
+- **Lab 03 Live API:** https://alimilli-mahesh-kumar-lab-3.onrender.com
 
 ## 2. Introduction
 
