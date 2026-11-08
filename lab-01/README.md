@@ -57,7 +57,7 @@ Alimilli-Mahesh-Kumar/
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/maheshallimili051624-art/Alimilli-Mahesh-Kumar.git
+git clone https://github.com/maheshallimili051624-art/Alimilli-Mahesh-Kumar
 ```
 
 ### Step 2: Open the lab folder
