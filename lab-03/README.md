@@ -217,4 +217,4 @@ Overall, this lab improved my practical understanding of REST API development an
 
 ## 12. GitHub Repository
 
-**Repository:** [Alimilli-Mahesh-Kumar---BDF](https://github.com/maheshallimili051624-art/Alimilli-Mahesh-Kumar---BDF)
+**Repository:** [Alimilli-Mahesh-Kumar---BDF](https://github.com/maheshallimili051624-art/Alimilli-Mahesh-Kumar)
